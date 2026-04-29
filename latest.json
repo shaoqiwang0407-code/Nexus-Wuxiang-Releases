@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.14",
-    "notes":  "Nexus Wuxiang desktop release 0.1.14",
-    "pub_date":  "2026-04-28T17:27:09Z",
+    "version":  "0.1.15",
+    "notes":  "Nexus Wuxiang desktop 0.1.15: remove formal placeholder wording and keep subscription data factual.",
+    "pub_date":  "2026-04-29T02:09:03Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbk5hVnZLU2h1SjZRWmFlTDc5V0k5VTQ4MStqNno2VGZlUm1sYkNsSFphNGd2eEt5ai9rdDhFSXdQTVZueFZpc3kwNmszYk9lTlgyY2N3aEtZU3lBZVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3Mzk3MjE5CWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS4xNF94NjQtc2V0dXAuZXhlCkdRajVoWXQ5NlpBMnF2REwzdDVBVGVUSDF0bGhTMTZ4OGZVeFAwU2lhNFZDbXZxRjhTUENSSTI1czQyVjlxelVCZFR3S2xyNEpscFB0cTU4TVVudUNnPT0K",
-                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.14_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbk93aEFYZHZyc202NkI3SjgrczNiVkk0TXpxbGR2WDNsZlcxZFFtYW9kSWE4ZU02am5FdVZWYTgvSjBzMGZYc3NEcFMyd01Oa1FTcGVFNFBGaCs3dnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDI4NTIwCWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS4xNV94NjQtc2V0dXAuZXhlCmVLMXh1Z0ZMRldyaTRKMEd0b1pqN3JwR0RYd1k5T1ArcEhCS041dUpHQXhyd0xJR1U4RFZFQUtxR2JIZzFvTVJhK0t4MEUwai82RWNCamRRajhaQ0RRPT0K",
+                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.15_x64-setup.exe"
                                          }
                   }
 }
