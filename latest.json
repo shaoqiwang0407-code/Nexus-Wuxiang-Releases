@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.16",
-    "notes":  "Nexus Wuxiang desktop 0.1.16: use real home overview counts and remove remaining visible placeholder metadata.",
-    "pub_date":  "2026-04-29T04:14:25Z",
+    "version":  "0.1.17",
+    "notes":  "Nexus Wuxiang desktop 0.1.17: harden Bilibili creator video sync pagination, database lock retries, and completion validation.",
+    "pub_date":  "2026-04-30T12:53:39Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbkgzL0tlTStlWnJOTlRJeFdBOUFmeW1EUkJpK1diQVo4ZW05UWwwWmwvWkJxZlNPanoyMTZvVFVqc2VlalM0Q2h6T0lIQ3VzYXhWMThDRWFLSFF2YncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDM2MDQ2CWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS4xNl94NjQtc2V0dXAuZXhlClFKL20zVWk4Z2IxQXhoaXV2dC8vRHdlTWVSM3NXSDIwb0JpRzlQUkt2bkRETnlVTDNTa1dHUUFhVE5tQzJGNCtOdDF3SDIwYTFuT0V1U1N1dnpPRUJBPT0K",
-                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.16_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbkROVzgvUmRlMmsweDB0aWhwTTM3bGJWQjVkSVFJbWFZVXVydmorVXlaZG1QTnJZdzVyUlZScDNEYlpZS3BlK01ZNDRlMVk4WHdVT1hxdGRMNTkrY1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTUzNjEyCWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS4xN194NjQtc2V0dXAuZXhlCnZUUk5GNVRlNk1VcmZDbzVTbmRwVU5JdTVyMU0xRnpBM2IzTzRta2p6Wks5ZnN1eGFiOGJrcHNtM05xaUxvdVgydVliOWF5bW0ycTZ5WnByQkpXV0NBPT0K",
+                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.17_x64-setup.exe"
                                          }
                   }
 }
