@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.19",
-    "notes":  "Nexus Wuxiang desktop 0.1.19: harden Bilibili and Douyin video sync, move app data beside installation, and migrate old AppData safely.",
-    "pub_date":  "2026-04-30T17:50:11Z",
+    "version":  "0.1.20",
+    "notes":  "Nexus Wuxiang desktop release 0.1.20",
+    "pub_date":  "2026-04-30T18:43:22Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbklLN0VlMzNNd25NaXg2KzhBY2JhVGwvUjJCYi9pZGRZTDgxV3ptOERsbGdWZGJHUUJxOHhqZS9tSEhOR3J6WEUyRDZHZ0V0aHpLVEd5MDVnUWNNNndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTcxNDAzCWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS4xOV94NjQtc2V0dXAuZXhlCjB5bVlYb3Z2cXI0RDJIbk9qTnJuUmcyeU1MMXRzZXdWNThmQVpTd3ArdkQyTzhaU3h1ZERkeElCbVV1d2RDeDlDNHRKbWxnNDNkMys5dW5hbEQxU0NnPT0K",
-                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.19_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbkVPakFmMnRZVzhXS1hZSmJpNGp0cDMySmlpaUtTVms4Si9nUWNMcndNRXJ5SENzditEOEo3V3RCakRVTmN5ZzF1ZFNuUm00a1hBeEh1Y2Y4ZVByTEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTc0NTg1CWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS4yMF94NjQtc2V0dXAuZXhlCjFmK09uWGZ0ak9MNTQreS9QSk1oNGJpV1EyaTFPL2xqazI4MUVTeGszM3hiaDhXNkx6Z0tJWVp0R1RuT054dSs4VU5FRG8rQU9UNkpUd1BLSXloQUNBPT0K",
+                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.20_x64-setup.exe"
                                          }
                   }
 }
