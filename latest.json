@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.18",
-    "notes":  "Nexus Wuxiang desktop 0.1.18: speed up Bilibili creator sync with page-batched writes and recover stale running sync jobs.",
-    "pub_date":  "2026-04-30T13:41:52Z",
+    "version":  "0.1.19",
+    "notes":  "Nexus Wuxiang desktop 0.1.19: harden Bilibili and Douyin video sync, move app data beside installation, and migrate old AppData safely.",
+    "pub_date":  "2026-04-30T17:50:11Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbklKVlBZNmx3RlI2UFBid0xJMEhmQUFGNHBkRGw5S2lJU3RFT1V2MElja3hJeE0wUCtLN1ZUSWdFbE5JMUF1VlhnaWcyWEJEQ2xQWG14SitncTZ1UXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTU2NTA1CWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS4xOF94NjQtc2V0dXAuZXhlCkJTUEZ0ZDlUL0lweVkwMHFyVGtQclJvV1czajFibGdQYWN0MkxxZDlTZzNuWmZlUjBEQWQ1alhZd1FNY0NMRHpoWmViMFRqRjRkLzh6elZGY1MvVURnPT0K",
-                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.18_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbklLN0VlMzNNd25NaXg2KzhBY2JhVGwvUjJCYi9pZGRZTDgxV3ptOERsbGdWZGJHUUJxOHhqZS9tSEhOR3J6WEUyRDZHZ0V0aHpLVEd5MDVnUWNNNndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTcxNDAzCWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS4xOV94NjQtc2V0dXAuZXhlCjB5bVlYb3Z2cXI0RDJIbk9qTnJuUmcyeU1MMXRzZXdWNThmQVpTd3ArdkQyTzhaU3h1ZERkeElCbVV1d2RDeDlDNHRKbWxnNDNkMys5dW5hbEQxU0NnPT0K",
+                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.19_x64-setup.exe"
                                          }
                   }
 }
