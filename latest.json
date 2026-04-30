@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.17",
-    "notes":  "Nexus Wuxiang desktop 0.1.17: harden Bilibili creator video sync pagination, database lock retries, and completion validation.",
-    "pub_date":  "2026-04-30T12:53:39Z",
+    "version":  "0.1.18",
+    "notes":  "Nexus Wuxiang desktop 0.1.18: speed up Bilibili creator sync with page-batched writes and recover stale running sync jobs.",
+    "pub_date":  "2026-04-30T13:41:52Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbkROVzgvUmRlMmsweDB0aWhwTTM3bGJWQjVkSVFJbWFZVXVydmorVXlaZG1QTnJZdzVyUlZScDNEYlpZS3BlK01ZNDRlMVk4WHdVT1hxdGRMNTkrY1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTUzNjEyCWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS4xN194NjQtc2V0dXAuZXhlCnZUUk5GNVRlNk1VcmZDbzVTbmRwVU5JdTVyMU0xRnpBM2IzTzRta2p6Wks5ZnN1eGFiOGJrcHNtM05xaUxvdVgydVliOWF5bW0ycTZ5WnByQkpXV0NBPT0K",
-                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.17_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbklKVlBZNmx3RlI2UFBid0xJMEhmQUFGNHBkRGw5S2lJU3RFT1V2MElja3hJeE0wUCtLN1ZUSWdFbE5JMUF1VlhnaWcyWEJEQ2xQWG14SitncTZ1UXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NTU2NTA1CWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS4xOF94NjQtc2V0dXAuZXhlCkJTUEZ0ZDlUL0lweVkwMHFyVGtQclJvV1czajFibGdQYWN0MkxxZDlTZzNuWmZlUjBEQWQ1alhZd1FNY0NMRHpoWmViMFRqRjRkLzh6elZGY1MvVURnPT0K",
+                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.18_x64-setup.exe"
                                          }
                   }
 }
