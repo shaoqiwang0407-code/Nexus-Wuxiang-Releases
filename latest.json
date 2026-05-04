@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.25",
-    "notes":  "Nexus Wuxiang desktop 0.1.25: open Douyin downloads in an interactive auth window and report security verification clearly.",
-    "pub_date":  "2026-05-04T18:01:03Z",
+    "version":  "0.1.26",
+    "notes":  "修复正式桌面订阅作品按发布时间倒序展示，简化本地播放器弹层并降低右侧队列轮盘误触。",
+    "pub_date":  "2026-05-04T18:26:26Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbk1oU013NFV4d0ZzWEluRTRQb3ZHaWhPTU1ZR0hWVXR5MmNPdWUxNUk5a01JUHJDTWJBbTZjc1FqMTYwaW9hTkV1amFrazBDR2JDZW1hcHVKM2JVOEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3OTE3NjU1CWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS4yNV94NjQtc2V0dXAuZXhlClFpWllUcnhDVGEwVk84WWg5c2ZrczhvYUU4NTA5N2pXUFBMbkJ5UGhwd0lVN1VqK2pBbi9hN2FoVVBqYWg3d3o5eDdHb003eVVlcE94bW5INmhUMUFnPT0K",
-                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.25_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbkR2WFNpaFFVRkdyWFk0RHpCaUI2THpHRVd1ajNwTEplUUVxcVN1NldOQWEwYXU5UUUwdXAzNGx0cVViTURCV215a3NnRk9Rekp4UnJtcVZuL1NPZHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3OTE5MTc5CWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS4yNl94NjQtc2V0dXAuZXhlCisyQkVkV2M0RHJjTVBVcnAxYzczZ0hORytXZmxCSm0wK0RMb3FJM00xYzBndlZqR0J0Y3FNY3lQQmk0NDluenpIMHVrMzk2Ny9XeFlndGVKZklDeERBPT0K",
+                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.26_x64-setup.exe"
                                          }
                   }
 }
