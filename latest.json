@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.24",
-    "notes":  "Nexus Wuxiang desktop 0.1.24: keep historical failed downloads out of the active download tray and clear current tray failures correctly.",
-    "pub_date":  "2026-05-04T17:33:14Z",
+    "version":  "0.1.25",
+    "notes":  "Nexus Wuxiang desktop 0.1.25: open Douyin downloads in an interactive auth window and report security verification clearly.",
+    "pub_date":  "2026-05-04T18:01:03Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbkpKTlNnb3VaL2dLZmNXb2JVcjhZSVdMWndwT0JzbnBIcExTZkZ6OXl2YW5RQU5ZeE1FU2paT1VLUlRkdVV1a3VRaHpkTmdJcUNMUVpYSS9WSHA0cGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3OTE1OTg2CWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS4yNF94NjQtc2V0dXAuZXhlCnE1b2R3QWpGckxnWHh0VGNHYjMwTVBubE41K3NKR3JzWmptWDFuVkZlL1AzQXFqNldjVHJ5OGxtcWltOTByMlkwT3dwZFhld2Z3bU0zbkVIZGNVNEJnPT0K",
-                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.24_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbk1oU013NFV4d0ZzWEluRTRQb3ZHaWhPTU1ZR0hWVXR5MmNPdWUxNUk5a01JUHJDTWJBbTZjc1FqMTYwaW9hTkV1amFrazBDR2JDZW1hcHVKM2JVOEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3OTE3NjU1CWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS4yNV94NjQtc2V0dXAuZXhlClFpWllUcnhDVGEwVk84WWg5c2ZrczhvYUU4NTA5N2pXUFBMbkJ5UGhwd0lVN1VqK2pBbi9hN2FoVVBqYWg3d3o5eDdHb003eVVlcE94bW5INmhUMUFnPT0K",
+                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.25_x64-setup.exe"
                                          }
                   }
 }
