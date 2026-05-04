@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.23",
-    "notes":  "Nexus Wuxiang desktop 0.1.23: keep synced subscription works out of the second-layer memory graph unless the user adds them.",
-    "pub_date":  "2026-05-04T17:19:04Z",
+    "version":  "0.1.24",
+    "notes":  "Nexus Wuxiang desktop 0.1.24: keep historical failed downloads out of the active download tray and clear current tray failures correctly.",
+    "pub_date":  "2026-05-04T17:33:14Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbktiZzViSGJNZmFVNnU4eVF1YVlDMzA5WTFlTmU4MU5NQUtkcTFHR1FQam9pOUtIbzVieDdiMnI4WkNvWUdRbDlnNC82UXRwVDJKdDNLWEVJWWhWaWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3OTE1MTM3CWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS4yM194NjQtc2V0dXAuZXhlCm1ocEE4RXBGU28zeCswektuWXRyaHgvNSsxZTdaQTFOVnYzQU1EZjQ1TGc0eDhJK2VQb3RYd3VnaVpUdnZnV1k3WUlWYkxvSTlRTXNTZEprTlRPWkNnPT0K",
-                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.23_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbkpKTlNnb3VaL2dLZmNXb2JVcjhZSVdMWndwT0JzbnBIcExTZkZ6OXl2YW5RQU5ZeE1FU2paT1VLUlRkdVV1a3VRaHpkTmdJcUNMUVpYSS9WSHA0cGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3OTE1OTg2CWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS4yNF94NjQtc2V0dXAuZXhlCnE1b2R3QWpGckxnWHh0VGNHYjMwTVBubE41K3NKR3JzWmptWDFuVkZlL1AzQXFqNldjVHJ5OGxtcWltOTByMlkwT3dwZFhld2Z3bU0zbkVIZGNVNEJnPT0K",
+                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.24_x64-setup.exe"
                                          }
                   }
 }
