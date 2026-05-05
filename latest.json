@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.27",
-    "notes":  "移除本地播放器默认时间轴标签，并把右侧队列轮盘触发区收窄到最右侧 8px。",
-    "pub_date":  "2026-05-05T03:12:15Z",
+    "version":  "0.1.28",
+    "notes":  "修复正式图谱新增节点级联菜单换行和平台名称溢出问题。",
+    "pub_date":  "2026-05-05T03:34:49Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbkg3UVBNbURFVzQzVnVIS0lqMFJDS2wvaGt3VDdWSmJBbWRLNjJOZjhtOEJBOTZIb3kweVExSitjU1h4N1pXeFhJdTRxdXZ4V3gxb3AvZ25JYWp4dlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3OTUwNzI3CWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS4yN194NjQtc2V0dXAuZXhlCkpXMmEzWUxmUVYzTW9zT3ZNVnBaQmZDQy83L0pHWmI3eUZweUVLR0EwQ29WaW9ic09pd0p2bWliWU5WaUs5R0VLSDduWVBqVGRqTmd4RWF4SklTVUNBPT0K",
-                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.27_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbkFSV3RJRVhrRDJDMFdGY0NwSXJnVGVWczhlQUQ0aVNSdzU3bzFuTXdaR2lTend4cG1zMjZOYWs4WnVna0NxRzZnWXZtUjdHdldHRWVBUUwvTTM5cGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3OTUyMDgxCWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS4yOF94NjQtc2V0dXAuZXhlCmlkeTg5QmxURWQ2Sk9uSHpWa1E0N0ZlSERibnovdWM3ZzVGSVU4ZS9ReUVLWWEzVlp2L29ERHBNdFJSYXVLSnFRNjcwdUZvTXVPYWhITFRNdXptZ0FRPT0K",
+                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.28_x64-setup.exe"
                                          }
                   }
 }
