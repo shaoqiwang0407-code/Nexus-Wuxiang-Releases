@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.33",
-    "notes":  "Nexus Wuxiang desktop release 0.1.33",
-    "pub_date":  "2026-05-08T19:31:04Z",
+    "version":  "0.1.34",
+    "notes":  "Nexus Wuxiang desktop 0.1.34: prevent narrow panel action text from stacking vertically across desktop and demo parity.",
+    "pub_date":  "2026-05-08T20:00:59Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxblB0aElScnl3QkVwYVNlZHN5cGw5enJJb3VvQmk3VFB4bXhjbXNRdW5ZdlI5clhJblJnaDUrSGwxWmo5c0dvbnM3WCtFRWovQ09jRXBtYUxOaVVWWEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MjY4NjU3CWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS4zM194NjQtc2V0dXAuZXhlCnV4eElZb1VCYzYvMzgwR3kzWWs0d0ZYMWFrT1BRbkhOU05RNXFXdXdhOFJPNEZvSlRGR2NNc3ZKd1dyZnBDK2hWNkxKTk9pZ0pCVGZOMkNCaXFuN0JRPT0K",
-                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.33_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbk5iNXY2NFZ2bjVFdnU5dGNORERydVpoRkZSUWd4K0w2azduYzhMYzhBcks4c29Nc3ZqTVlGUWo0V3Y2dkJFU2M5S3A3eEh0cjJ0bGZlUUI0MVdUZWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MjcwNDU2CWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS4zNF94NjQtc2V0dXAuZXhlCkZIMGtsR0YrZmhIU29tUDNJZ0swcUVvMUdzSS9XSThWckRXeWhuTk5HRFc1bEVjZThxbVZ4RmZ4dm9WTFRuS2lMckJ3UFQzS1JXOEwyTHJyRmhidER3PT0K",
+                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.34_x64-setup.exe"
                                          }
                   }
 }
