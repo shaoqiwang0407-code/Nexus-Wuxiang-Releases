@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.36",
-    "notes":  "Nexus Wuxiang desktop 0.1.36: keep the app running in the tray background, support startup automation, and add subscription auto-sync controls.",
-    "pub_date":  "2026-05-09T07:11:28Z",
+    "version":  "0.1.37",
+    "notes":  "Nexus Wuxiang desktop release 0.1.37",
+    "pub_date":  "2026-05-09T10:04:48Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbkZ6ZDBHUWxYR1lkRStQNVY3ZnJZYTlmUWh3b2ZXMkVzaWFuckVOcjF1OVZDSHpZN3RSQ0JDQ3B0NTkwZWRpOHQrcXh1bUJCU1pXa2RRKy80YXdpeVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MzEwNjc2CWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS4zNl94NjQtc2V0dXAuZXhlCncyQjFqbXhYZXptWXJLOTRna1g3bVg0M3RtcEVwL0VEY00yei9KNElXRkt0YzAxbTFBT1lQVzg3SGdZSFpSeG96OUh0b3ZkcWhURXBESThqK3AyWENBPT0K",
-                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.36_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbkpHTVhnOWpsNm5pOFc4Um5sbVF5Zk5ReHF5akZUaDB2YkU5blExdUZtSTdrMUx5VS9vUmZmd0VVcTNmNmVRdVhyRk9QOXF3V2psdTg5RWNVNzVzWVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MzIxMDc5CWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS4zN194NjQtc2V0dXAuZXhlClZ5b1lpdW9WLzN5ZmgwNk45WVZuTGRDQnlHb3dzN0J1dnhJdnI5elQ2eXl0bzlId1Z4UWt0Qkl5MVNkdFI5ZW5adGgrb0xwRnI3R1I4Smx4VGVpa0FRPT0K",
+                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.37_x64-setup.exe"
                                          }
                   }
 }
