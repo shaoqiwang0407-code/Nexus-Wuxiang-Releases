@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.69",
-    "notes":  "Nexus Wuxiang desktop release 0.1.69",
-    "pub_date":  "2026-05-13T13:59:45Z",
+    "version":  "0.1.70",
+    "notes":  "同步 demo 已验证的删除体系到正式桌面端，保留正式端信息源、本地媒体、下载和微信本地素材链路；补齐头像清空与内容级删除语义。",
+    "pub_date":  "2026-05-15T04:21:03Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbkVtWVgxeUNjR2dtWE5tUGN6MjBKczJDb0dzTG0rR2VLSkdjMkRFSG5zWnNVaEFjTW4wY0l6ZWM2QUxmRGhsZ3ZZclc0N09IUy90Wi9xSDR6ZHUzL3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NjgwNzgyCWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS42OV94NjQtc2V0dXAuZXhlCjIxY3E0em8vcHRZdVdPQ2tqbkVSVktJLzlwT284UXdNUitYenRqVlU0WUVVL1lLY1pZai9odE1uWlVOYTdRMXREYkRXc3BoZ2kzNlRaR0dHeVZoQUFnPT0K",
-                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.69_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbk1ZalppS3hkMlkra2RlUzJWaGR1dWFSWmgwMXBaYWh3a1FGU3B3a2VzODliTlNuaVRHcGtVdUI2V2Jpb0E3aXgvaGprZXlXTm0zVlcvR0VuUVFGWUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODE4ODUxCWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS43MF94NjQtc2V0dXAuZXhlCkhMaXZubkRJbXNCNlM3NUdES1lCdWw5RzFzVkZxa1U5cVZLOHJ0R2ltd01WU21mVnh1UzVjSzJqUW15eGRybUZGandCdEg4KzBKb3JaS0Jsd3NmL0NRPT0K",
+                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.70_x64-setup.exe"
                                          }
                   }
 }
