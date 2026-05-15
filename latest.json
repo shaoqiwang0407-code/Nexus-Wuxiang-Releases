@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.71",
-    "notes":  "Silence release build warnings; no functional changes.",
-    "pub_date":  "2026-05-15T04:38:37Z",
+    "version":  "0.1.72",
+    "notes":  "Nexus Wuxiang desktop release 0.1.72",
+    "pub_date":  "2026-05-15T07:05:12Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbkkyZ0dkRjlTUm5oQ0pjYkl0V0R1aUc2b1c3U3RIbWtYSE1EaDFzbFdYZi9EUHBzSHVEbDFlWEFOSWlvZ1p3M3UvRENFS0luNWpYNFE2OWRJL09hS0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODE5OTA1CWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS43MV94NjQtc2V0dXAuZXhlCjRSMUxaMVAvUldlZGthRlo1bW8wdzk0QS8rQ1dia3FVTjNVSUpYeGJBWEk1eGxjOEFOcVdnQXdIVkFhb0xha2lwbEdldG9VTWZKRWp1TzljODVFdEN3PT0K",
-                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.71_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbklxaGx3dEIxRVEvYmo3RzExVk90ZGlUbjRBVWF0VndIWnBVdmU5cDdVM3ltaXA0bWpXdWMxVlMwM3QzMnFCSUZYVVFpa21uUHF4cXJTcWN3bVlOWVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODI4NzA5CWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS43Ml94NjQtc2V0dXAuZXhlCkxERko2WngwWVc3a1J0a1Foc0tuZVQzaEJVNTE3SzFaODNaZTBmdmpxSktoVTBvMzdLYUNSYjBXNXJFVnllNWZDc1RqcWdabVlmVlpLZncrSGNwQ0JBPT0K",
+                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.72_x64-setup.exe"
                                          }
                   }
 }
