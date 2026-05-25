@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.83",
-    "notes":  "Nexus Wuxiang desktop release 0.1.83",
-    "pub_date":  "2026-05-25T11:50:55Z",
+    "version":  "0.1.84",
+    "notes":  "Nexus Wuxiang desktop 0.1.84: add creator video liked and disliked views, hide disliked works from sync, and restore them as not downloaded.",
+    "pub_date":  "2026-05-25T15:56:33Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbk8wa0wvQ3ZhK3dpeXF2NUxCb2Z3V2NMNXMyOUdVYmhDTDJNOFV2MXFnODBZZ1R2YnBISS9YRmJaNWhoejRna2FIWVdNYTYwOWRJbFNRNkF0U2pEVEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzA5ODQ2CWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS44M194NjQtc2V0dXAuZXhlCnBxRjdreG41N0h4NlVCcmtsNEVqWEx0L3UzcG11L1VvOGQ4WFRKZGI5L1NKVU93R0pSL0p3OGJUSzFnZlhjUXBHL01rOXF2d01xRThNS29qZG1nQ0RnPT0K",
-                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.83_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbklNMHhaSnBtcWRjdlJoR1lEMTZUa2pLa2hzMDlXaGFjSCt6NEJKQ3RRektmd25ZcDlhaFZVa0VEcUVqUWRDNVRSbzJUOEY0bUhNNlN5ZkwrYzVBRHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzI0NTkwCWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS44NF94NjQtc2V0dXAuZXhlCmRRVUorOUtzYmpKSncvVDVBVFRzL3RJTmZsOFVIYTluc05UMVplNjBpRUkzNnJaZjFHWTIyWHVrOHVSSnlzbnpvQUo5eW1DdjJCNWR0S1EwK2wvaURnPT0K",
+                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.84_x64-setup.exe"
                                          }
                   }
 }
