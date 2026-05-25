@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.80",
-    "notes":  "Nexus Wuxiang desktop release 0.1.80",
-    "pub_date":  "2026-05-23T08:07:31Z",
+    "version":  "0.1.81",
+    "notes":  "Desktop dependency security update: rustls-webpki patched and Tauri lockfile refreshed.",
+    "pub_date":  "2026-05-25T05:19:06Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxblBhQ3JiREgvRDhORVZsOE9aNlZXemhtRnJsMW1tbkNlWnZhNzBQMEtjOEF3ZVhESjRoRHV2WjVKRTlyTzFCZVdYRnV3OUJDbEVRWmprajRyb0J2cHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTIzNjQ4CWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS44MF94NjQtc2V0dXAuZXhlCmpGMGh0U2VCSFluT1d6MmVEK2FvSDFvREdhRTZIemhPTHpGVk5Dc1NJUmhIZWFjQzhiSzRXMHFFQjFiWjNJcDd4Skxjd1dibG5YQWg5ZmxLNG9jL0JBPT0K",
-                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.80_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbktJUmhBVytORG4wcStwTGd3Rm9ZeFF0WGJ1Rmw4cW43RFhuQmMrb3VvdkJPZkVpZWEzWXpCaTFna3dMVDNQd0hqYzZ2cXR1V3hMdUFTWFVXeS9obGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Njg2MzM4CWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS44MV94NjQtc2V0dXAuZXhlCkp6RVRUTTgzaTNrcC9tU2M3NG9iRVU4em5UaDNwUVRaV3pKY0dhVG95cEJhblJqRW5XSVVuNno3czg5T3RKMFp6OGFGSUx4aks1MTQ1dE1EcFYvNEJBPT0K",
+                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.81_x64-setup.exe"
                                          }
                   }
 }
