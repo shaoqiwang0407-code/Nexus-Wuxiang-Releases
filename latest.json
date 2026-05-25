@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.85",
-    "notes":  "Nexus Wuxiang desktop 0.1.85: align creator video liked and disliked views and rename formal app favorite copy to likes.",
-    "pub_date":  "2026-05-25T16:31:40Z",
+    "version":  "0.1.86",
+    "notes":  "Nexus Wuxiang desktop 0.1.86: align creator video like and dislike controls in the header and poster cards.",
+    "pub_date":  "2026-05-25T17:00:41Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbkgyREZwbGhHM29TTStwOGhIMkNCdGFUV3pYdjlDbUNuMHJ3Q0FwMUdmdDk0d1QzYW41U1JEaTVBcTJhNnowMnViZkVONEhNYXJtSVFJUlhWaisyR0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzI2Njk3CWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS44NV94NjQtc2V0dXAuZXhlCnNWSXhYL0EwWUlBcGpxWWJqbzBFT3FIUkZIM1A5V1p1MXhoT1RqY1pJdHpaamhTdnErN1k3UjZ1Vml6VXNwdXFkdHMzaHlQQlgvdXM4eHpWL2psQ0JnPT0K",
-                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.85_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbkh2alhWSHpNcDZHdFRQaUNLU09iM000N0pzcmpxdnZFNUxxZ1J5TUtzU1oyUlcwRGFpeno1QllaNDJKc3pGQmpTdDhRRjRpRStVWmYxazh0VWM5d1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzI4NDM4CWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS44Nl94NjQtc2V0dXAuZXhlCm1ENzNKR0RiTHNOU0FFTkpQcFl3R3IxNHI0dzZKaU1FMnpremVuYkxsVVJyRzFvVlhhVE12L21WTDd0UXhrZkZ6VEJnSjV6UmY4Y1Rmbk5JUDZBVERnPT0K",
+                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.86_x64-setup.exe"
                                          }
                   }
 }
