@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.91",
-    "notes":  "Nexus Wuxiang desktop 0.1.91: harden native local video playback and maximize the release player window.",
-    "pub_date":  "2026-05-26T15:18:09Z",
+    "version":  "0.1.92",
+    "notes":  "Nexus Wuxiang desktop release 0.1.92",
+    "pub_date":  "2026-05-28T16:16:15Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxblB4UjVUVDQ2MzZFZ3JCdEhOUlVlQTE3YzJ1d3A5NGxjVnd2QzFVTGs3b1ZPaExZV2ZVbzh3c2ZFUDJkMXhVVkNBN1pOTXdWUnJ4ekpJcVRRRzNnelFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5ODA4NjgxCWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS45MV94NjQtc2V0dXAuZXhlCm1CN0RKUnVLSkYrWHZmZjZpUUd0bzJZK0kxSFA5T2R0STNYREI1ZDhEa25wTExTMUZvS1hKMFl2dnY0ZTVBU2xvNHBYUDRkNGhDOHZkT1MxbS9MTUJRPT0K",
-                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.91_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkd0N1M5WCsxbkgzRWVwNnFXZkxvZmpkL2xyeCtGNEVLaGFFU05jZGhqbXBPRTZvWkE3UWlLbTB2Vll0bUtXek1BYmRrVWt3cmtPcFRXdkIxcFZxVktUak43K2dXcXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTg0OTY5CWZpbGU6TmV4dXMg5ZC+5LmhXzAuMS45Ml94NjQtc2V0dXAuZXhlCnR3WnFUV2wxNWhGbjVHdFBHOUNkak5ORkw2YWZpVmY0dmUxaTFrMnE4a3M5cnZQL1U2bEQ3ckdnOUZKZHhOZllWNGtuRTNrWWFmTmpuQ1pjQ21PM0JRPT0K",
+                                             "url":  "https://raw.githubusercontent.com/shaoqiwang0407-code/Nexus-Wuxiang-Releases/main/Nexus-Wuxiang_0.1.92_x64-setup.exe"
                                          }
                   }
 }
